@@ -2,9 +2,9 @@
 
 <br>
 <br>
-<a href="https://github.com/MarkReifke/Password-Generator"><img src="public/assets/img/Note.jpg" alt="note"
+<a href="https://github.com/MarkReifke/Note-Taker"><img src="public/assets/img/Note.jpg" alt="note"
           width="250" height="250"> </a>   
-<a href="https://github.com/MarkReifke/Password-Generator"><img src="public/assets/img/notes.jpg" alt="note"
+<a href="https://github.com/MarkReifke/Note-Taker"><img src="public/assets/img/notes.jpg" alt="note"
           width="250" height="250"> </a>            
 Your Task
 Your assignment is to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
